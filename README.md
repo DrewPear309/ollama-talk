@@ -25,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository:
    ```
    git clone https://github.com/yourusername/ollama-talk.git
-   cd ollama-voice-chat
+   cd ollama-talk
    ```
 
 2. Install the required Python libraries:
@@ -50,7 +50,7 @@ Before you begin, ensure you have met the following requirements:
 
 2. Run the Python script:
    ```
-   python ollama_voice_chat.py
+   python ollama-talk.py
    ```
 
 3. Choose your desired voice.
