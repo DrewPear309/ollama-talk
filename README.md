@@ -42,8 +42,9 @@ Before you begin, ensure you have met the following requirements:
 ## Configuration
 
 1. Ensure Ollama is running on your local machine.
-2. If Ollama is not running on the default port (11434), update the `OLLAMA_API_BASE` variable in the script.
-3. If you're using a different Vosk model, update the `model_path` in the `chat_with_voice()` function.
+2. Enter your chosen Ollama model on line 15.
+3. If Ollama is not running on the default port (11434), update the `OLLAMA_API_BASE` variable in the script.
+4. If you're using a different Vosk model, update the `model_path` in the `chat_with_voice()` function.
 
 ## Usage
 
