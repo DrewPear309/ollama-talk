@@ -24,7 +24,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/ollama-voice-chat-309.git
+   git clone https://github.com/yourusername/ollama-talk.git
    cd ollama-voice-chat
    ```
 
