@@ -1,6 +1,6 @@
 # Ollama Talk
 
-Ollama Talk is a resource-efficient Python application that allows you to have a voice conversation with an AI model using Ollama. It uses speech recognition to convert your voice input into text, sends it to Ollama for processing, and then uses text-to-speech to vocalize Ollama's response.
+Ollama Talk is a resource-efficient Python application built on Windows that allows you to have a voice conversation with an AI model using Ollama. It uses speech recognition to convert your voice input into text, sends it to Ollama for processing, and then uses text-to-speech to vocalize Ollama's response.
 
 ## Features
 
@@ -26,15 +26,19 @@ Before you begin, ensure you have met the following requirements:
    ```
    git clone https://github.com/DrewPear309/ollama-talk.git
    cd ollama-talk
-   create a virtual environment if you wish.
+   ```
+2. Create virtual environment:
+   ```
+   python -m venv venv
+   venv\scripts\activate
    ```
 
-2. Install the required Python libraries:
+3. Install the required Python libraries:
    ```
    pip install requests pyttsx3 pyaudio vosk
    ```
 
-3. Download a Vosk model:
+4. Download a Vosk model:
    - Visit [Vosk Models](https://alphacephei.com/vosk/models)
    - Download a model appropriate for your language (e.g., "vosk-model-small-en-us-0.15" for English)
    - Extract the model files into a directory named `vosk-model-small-en-us-0.15` in the project folder
