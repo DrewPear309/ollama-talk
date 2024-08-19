@@ -26,6 +26,7 @@ Before you begin, ensure you have met the following requirements:
    ```
    git clone https://github.com/yourusername/ollama-talk.git
    cd ollama-talk
+   create a virtual environment if you wish.
    ```
 
 2. Install the required Python libraries:
