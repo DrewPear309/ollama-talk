@@ -9,7 +9,7 @@ Ollama Talk is a resource-efficient Python application that allows you to have a
 - Streaming support for Ollama's API
 - Low-latency, resource-efficient operation
 - Ability to select a system voice for text-to-speech
-- Logging of chat conversations to a stylizedd HTML file
+- Logging of chat conversations to a styled HTML file
 
 ## Prerequisites
 
