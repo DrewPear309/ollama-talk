@@ -1,6 +1,6 @@
 # Ollama Talk
 
-Ollama Talk is a lightweight, low resource, Python application built on Windows that allows you to have a voice conversation with an AI model using Ollama. It uses speech recognition to convert your voice input into text, sends it to Ollama for processing, and then uses text-to-speech to vocalize Ollama's response.
+Ollama Talk is a lightweight, low resource, Python command line application built on Windows that allows you to have a voice conversation with an AI model using Ollama. It uses speech recognition to convert your voice input into text, sends it to Ollama for processing, and then uses text-to-speech to vocalize Ollama's response.
 
 ## Features
 
